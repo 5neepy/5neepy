@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m @5neepy
 ## - 👀 I’m interested in coding and web desing
-## - 🌱 I’m currently learning javascript, node.js, html, c++
+## - 🌱 I’m currently learning python, javascript, node.js, html, c++
 ## - 📫 You can reach me on my buisness email: martinlambov@workmail.com
 
 <!---
